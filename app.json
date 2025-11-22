@@ -12,6 +12,15 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow this app to access your photos for post creation.",
+          "cameraPermission": "Allow this app to use your camera for taking pictures."
+        }
+      ]
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -20,6 +29,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.unierp.app",
       "edgeToEdgeEnabled": true
     },
     "web": {
