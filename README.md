@@ -158,8 +158,7 @@ Mark attendance screen (Admin/Faculty Roles)
 
 Attendance Subject Selection and Calendar view  (Students)
 
-![WhatsApp Image 2025-11-26 at 6 06 28 PM (2)](https://github.com/user-attachments/assets/589300d9-de1e-46e6-a6f3-cf1b15fc536a)
-
+![WhatsApp Image 2025-11-26 at 6 26 16 PM](https://github.com/user-attachments/assets/964d49df-e906-4366-8f32-99c316eb1782)
 
 
 
